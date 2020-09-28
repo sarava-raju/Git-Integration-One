@@ -12,5 +12,4 @@ public class AddTest {
 		int result = junit.add(300,200);
 		assertEquals(500, result);
 	}
-
 }

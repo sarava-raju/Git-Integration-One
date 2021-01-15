@@ -10,7 +10,7 @@ public class ConCatTest {
 	public void ConCattest() {
 		MyJunitClass junit = new MyJunitClass();
 		String result = junit.ConCat("Hello","World");
-		assertEquals("Hello World", result);;
+		assertEquals("Hello World Branch2", result);;
 	}
 
 }

@@ -9,7 +9,7 @@ public class AddTest {
 	@Test
 	public void AdddTest() {
 		MyJunitClass junit = new MyJunitClass();
-		int result = junit.add(300,400);
-		assertEquals(700, result);
+		int result = junit.add(300,200);
+		assertEquals(500, result);
 	}
 }

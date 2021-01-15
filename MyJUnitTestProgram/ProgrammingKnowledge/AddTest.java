@@ -10,6 +10,6 @@ public class AddTest {
 	public void AdddTest() {
 		MyJunitClass junit = new MyJunitClass();
 		int result = junit.add(300,200);
-		assertEquals(500, result);
+		assertEquals(600, result);
 	}
 }
